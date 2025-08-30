@@ -30,6 +30,6 @@ This project predicts housing prices using the `house.csv` dataset. It includes 
  streamlit run house_prediction.py
  
 👤 **AuthorYour Name**
-CodeVeda Internship project
-**Github**:GudiyaVishwakarma-7080
+   Gudiya Vishwakarma
+   **Github**:GudiyaVishwakarma-7080
 
