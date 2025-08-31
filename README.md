@@ -29,7 +29,7 @@ This project predicts housing prices using the `house.csv` dataset. It includes 
 **Run this Command**
  streamlit run house_prediction.py
  
-👤 **AuthorYour Name**
+👤 **Author**
    Gudiya Vishwakarma
    **Github**:GudiyaVishwakarma-7080
 
